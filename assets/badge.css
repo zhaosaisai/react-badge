@@ -1,0 +1,32 @@
+.v-badge{
+    position: relative;
+    width: 45px;
+    height: 45px;
+}
+
+/* v-badge-count */
+.v-badge-count{
+    position: absolute;
+    height: 16px;
+    line-height: 16px;
+    font-size: 12px;
+    background-color: red;
+    color: #fff;
+    font-style: normal;
+    padding: 0;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 8px;
+    text-align: center;
+    right: 0;
+    top: 0;
+    box-shadow: -2px 2px 5px #fff;
+}
+
+/* .v-badge-dot */
+.v-badge-count.v-badge-dot{
+    padding: 0;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+}
