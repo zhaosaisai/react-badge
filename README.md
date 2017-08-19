@@ -1,4 +1,4 @@
-## react-notification
+## react-badge
 
 > A small component for react
 
